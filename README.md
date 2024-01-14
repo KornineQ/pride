@@ -2,7 +2,7 @@
 
 LGBT pride via github languages list
 
-![image](https://github.com/Vendicated/gay/assets/45497981/4f5a0f42-56bf-4cea-8f04-498db315bfb5)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/45497981/284077541-4f5a0f42-56bf-4cea-8f04-498db315bfb5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240114T123628Z&X-Amz-Expires=300&X-Amz-Signature=54a6efddcec76aaa2ea7355b5d5ee7b66f829aba30db680dd21ba85222fb4a6a&X-Amz-SignedHeaders=host&actor_id=84327578&key_id=0&repo_id=720807799)
 
 
 Inspired by https://github.com/spacekookie/gay
